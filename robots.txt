@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orteriec.github.io/sitemap.html.gz
+Sitemap: https://orteriec.github.io/app/sitemap.html.gz
+Sitemap: https://orteriec.github.io/assets/sitemap.html.gz
+Sitemap: https://orteriec.github.io/css/sitemap.html.gz
+Sitemap: https://orteriec.github.io/includes/sitemap.html.gz
+Sitemap: https://orteriec.github.io/item/sitemap.html.gz
+Sitemap: https://orteriec.github.io/src/sitemap.html.gz
